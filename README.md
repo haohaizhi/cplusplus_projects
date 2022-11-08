@@ -10,10 +10,10 @@
   <p align="center">
   <a href="https://github.com/haohaizhi/haohaizhi.github.io/blob/main/assets/qq.jpg">
   <img src="https://img.shields.io/badge/Talk-QQ-brightgreen.svg?style=popout-square" alt="QQ"></a>
-  <a href="https://github.com/haohaizhi/c_projects/stargazers">
-  <img src="https://img.shields.io/github/stars/haohaizhi/c_projects.svg?style=popout-square" alt="GitHub stars"></a>
-  <a href="https://github.com/haohaizhi/c_projects/issues">
-  <img src="https://img.shields.io/github/issues/haohaizhi/c_projects.svg?style=popout-square" alt="GitHub issues"></a>
+  <a href="https://github.com/haohaizhi/cplusplus_projects/stargazers">
+  <img src="https://img.shields.io/github/stars/haohaizhi/cplusplus_projects.svg?style=popout-square" alt="GitHub stars"></a>
+  <a href="https://github.com/haohaizhi/cplusplus_projects/issues">
+  <img src="https://img.shields.io/github/issues/haohaizhi/cplusplus_projects.svg?style=popout-square" alt="GitHub issues"></a>
 </p>
 
 

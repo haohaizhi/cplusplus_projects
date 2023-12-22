@@ -24,3 +24,4 @@
 |编号|链接|时间|
 | :--:| :--: | :--: |
 |1|[算法学习汇总](https://github.com/haohaizhi/cplusplus_projects/tree/main/c-study/)|2023/08/16|
+|2|[C++实现简单数据库](https://github.com/haohaizhi/cplusplus_projects/tree/main/cpp-easySql/)|2023/12/22|

@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://mehoon.com">
-    <img src="https://blog.mehoon.com/wp-content/uploads/2021/06/cropped-avatar.jpg" width="130" />
+     <img src="https://github.com/haohaizhi/haohaizhi.github.io/blob/main/assets/avatar.jpg" width="130" />
   </a>
   <br />
   <b>云淡风轻</b>

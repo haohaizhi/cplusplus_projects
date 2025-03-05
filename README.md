@@ -30,4 +30,7 @@
 |5|[项目：简单命令行框架](https://github.com/haohaizhi/mini_vtysh)|2024/04/25|
 |6|[项目：Telnet服务端](https://github.com/haohaizhi/telnet_server)|2024/05/08|
 |7|[项目：SSH客户端](https://github.com/haohaizhi/ssh_client)|2024/05/08|
-|7|[C语言实现高并发](https://github.com/haohaizhi/cplusplus_projects/tree/main/TCP高并发)|2025/01/24|
+|8|[C语言实现高并发](https://github.com/haohaizhi/cplusplus_projects/tree/main/TCP高并发)|2025/01/24|
+|9|[项目：Hlicense授权库](https://github.com/haohaizhi/hlicense)|2025/03/03|
+
+
